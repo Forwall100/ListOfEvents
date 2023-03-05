@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Events>
+    <CityEvent>
+        <Header>Мастер-класс по установке Linux</Header>
+        <Description>Многие погибли на этом коварном пути. В воздухе витает аромат неуверенности и разочарования, пока вы пробираетесь по лабиринту командных строк и конфигураций.</Description>
+        <Image>Assets/systemd.jpg</Image>
+        <Date>2023-04-15T19:00:00</Date>
+        <Category>
+            <CategoryItem>Шоу</CategoryItem>
+            <CategoryItem>Образование</CategoryItem>
+        </Category>
+        <Price>100 р.</Price>
+    </CityEvent>
+
+    <CityEvent>
+        <Header>Лабораторная в воскрсенье</Header>
+        <Description>Когда вы войдете внутрь, вас встретит отчаянное стучание клавиатуры. В воздухе витает запах пота, кофе и ужаса. Как будто стены смыкаются, заставляя вас писать код быстрее. Здесь вы найдете настоящую армию красноглазиков, каждый из которых паникует и нервничает больше, чем предыдущий. Незабываемые впечатления от от паники гарантированы!</Description>
+        <Image>Assets/VS.jpg</Image>
+        <Date>2023-05-20T14:30:00</Date>
+        <Category>
+            <CategoryItem>Образ жизни</CategoryItem>
+            <CategoryItem>Для детей</CategoryItem>
+            <CategoryItem>Для детей</CategoryItem>
+        </Category>
+        <Price>БЕСПЛАТНО</Price>
+    </CityEvent>
+
+    <CityEvent>
+        <Header>Открытие молодежного центра "Вагнеренок"</Header>
+        <Description>Вагнерята высадились в ТЦ Авиапарк, ЧВК Редан стремительно отступают</Description>
+        <Image>Assets/vagner.jpg</Image>
+        <Date>2023-05-20T14:30:00</Date>
+        <Category>
+            <CategoryItem>Для детей</CategoryItem>
+            <CategoryItem>Культура</CategoryItem>
+            <CategoryItem>Образ жизни</CategoryItem>
+        </Category>
+        <Price>БЕСПЛАТНО</Price>
+    </CityEvent>
+
+    <CityEvent>
+        <Header>Экскурсия на заводе по производству CO2</Header>
+        <Description>В результате будут «обнулены» все усилия ЕС по снижению выбросов за 15 лет, уровень загрязнения вернётся к показателям 2008 года.</Description>
+        <Image>Assets/zavod.jpg</Image>
+        <Date>2023-05-20T14:30:00</Date>
+        <Category>
+            <CategoryItem>Экскурсии</CategoryItem>
+            <CategoryItem>Шоу</CategoryItem>
+        </Category>
+        <Price>1600 p.</Price>
+    </CityEvent>
+
+    <CityEvent>
+        <Header>Ритуальное сожжение долларов, для укрепления рубля</Header>
+        <Description>Через год долларами и евро будут топить печки</Description>
+        <Image>Assets/money.jpg</Image>
+        <Date>2023-05-20T14:30:00</Date>
+        <Category>
+            <CategoryItem>Для детей</CategoryItem>
+            <CategoryItem>Шоу</CategoryItem>
+            <CategoryItem>Образ жизни</CategoryItem>
+        </Category>
+        <Price>1600 p.</Price>
+    </CityEvent>
+
+    <CityEvent>
+        <Header>Демонстрация сетей 5G</Header>
+        <Description>Необходимо было просто внести исправления в название сети, тарифы и нормативные документы простой заменой  цифры «3» на «5», это можно сделать оперативно. Мы сможем развернуть сети 5G по стране за один день</Description>
+        <Image>Assets/5g.png</Image>
+        <Date>2023-05-20T14:30:00</Date>
+        <Category>
+            <CategoryItem>Для детей</CategoryItem>
+            <CategoryItem>Экскурсии</CategoryItem>
+            <CategoryItem>Онлайн</CategoryItem>
+        </Category>
+        <Price>БЕСПЛАТНО</Price>
+    </CityEvent>
+
+    <CityEvent>
+        <Header>Международный чемпионат барист</Header>
+        <Description>Чемпион прошлых лет приготовил кофе три-в-одном и поразил судейский состав.</Description>
+        <Image>Assets/coffee.png</Image>
+        <Date>2023-05-20T14:30:00</Date>
+        <Category>
+            <CategoryItem>Для детей</CategoryItem>
+            <CategoryItem>Образ жизни</CategoryItem>
+            <CategoryItem>Шоу</CategoryItem>
+        </Category>
+        <Price>БЕСПЛАТНО</Price>
+    </CityEvent>
+
+    <CityEvent>
+        <Header>Бесплатный показ аниме</Header>
+        <Description>Старшекласснику Лайту Ягами в руки попадает тетрадь синигами Рюка. Каждый человек, чьё имя записать в эту тетрадку, умрёт, поэтому Лайт решает бороться со злом на земле.</Description>
+        <Image>Assets/L.png</Image>
+        <Date>2023-05-20T14:30:00</Date>
+        <Category>
+            <CategoryItem>Вечеринки</CategoryItem>
+            <CategoryItem>Шоу</CategoryItem>
+            <CategoryItem>Культура</CategoryItem>
+        </Category>
+        <Price>БЕСПЛАТНО</Price>
+    </CityEvent>
+
+    <CityEvent>
+        <Header>Мероприятие «Бегущие лайки» от VK</Header>
+        <Description>Мероприятие «Бегущие лайки» от VK, на которое зарегистрировались тысячи СММщиков, оказалось гонками на собачьих упряжках</Description>
+        <Image>Assets/pesik.png</Image>
+        <Date>2023-05-20T14:30:00</Date>
+        <Category>
+            <CategoryItem>Для детей</CategoryItem>
+            <CategoryItem>Спорт</CategoryItem>
+            <CategoryItem>Образ жизни</CategoryItem>
+        </Category>
+        <Price>БЕСПЛАТНО</Price>
+    </CityEvent>
+
+    <CityEvent>
+        <Header>День открытых дверей СибГУТИ</Header>
+        <Description>«Четыре года – не срок, а жизненный урок»</Description>
+        <Image>Assets/vuz.png</Image>
+        <Date>2023-05-20T14:30:00</Date>
+        <Category>
+            <CategoryItem>Для детей</CategoryItem>
+            <CategoryItem>Образование</CategoryItem>
+            <CategoryItem>Образ жизни</CategoryItem>
+            <CategoryItem>Экскурсии</CategoryItem>
+        </Category>
+        <Price>БЕСПЛАТНО</Price>
+    </CityEvent>
+
+    <CityEvent>
+        <Header>Рок-концерт</Header>
+        <Description>Приготовьтесь зажигать вместе с Электрическими обезьянами! Эта энергичная группа заставит вас танцевать всю ночь напролет.</Description>
+        <Image>Assets/rock_concert.jpg</Image>
+        <Date>2023-06-10T20:00:00</Date>
+        <Category>
+            <CategoryItem>Культура</CategoryItem>
+            <CategoryItem>Образ жизни</CategoryItem>
+        </Category>
+        <Price>250 р.</Price>
+    </CityEvent>
+    
+    <CityEvent>
+        <Header>Подземная дегустация сыра</Header>
+        <Description>Мы обещаем не говорить подземным карликам, что вы здесь.</Description>
+        <Image>Assets/cheese.jpg</Image>
+        <Date>2023-07-15T12:00:00</Date>
+        <Category>
+            <CategoryItem>Экскурсии</CategoryItem>
+            <CategoryItem>Образ жизни</CategoryItem>
+            <CategoryItem>Вечеринки</CategoryItem>
+        </Category>
+        <Price>250 p.</Price>
+    </CityEvent>
+</Events>
